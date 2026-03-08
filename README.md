@@ -37,7 +37,7 @@
 **Impact:**Identified that 80% of a $59.84M business relies on physical stores, providing a strategic roadmap for digital and global growth.
 
 [Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/81145cae-b101-4375-aaa3-af5445d8ee6e/deb296f3d3fdf41d2ae2?experience=power-bi)
-[View the Code]()
+[View the Code](https://github.com/raygee642-bit/Global-Sales-Performance-and-Strategic-Revenue-Insights)
 
 
 

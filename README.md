@@ -15,7 +15,7 @@
 **The Tools Used:** Python, Microsoft Excel, Google Colab
 
 **Impact:** This analysis isolates **profit leakages** and **dead inventory** to provide a strategic roadmap for optimizing high-margin **Technology sales** and implementing **loyalty-driven retention initiatives**.
-[View_the_Code] (https://github.com/raygee642-bit/Superstore-Sales-Performance-Profitability-Optimization)
+[View_the_Code](https://github.com/raygee642-bit/Superstore-Sales-Performance-Profitability-Optimization)
 
 ## 2. Strategic Electricity Demand Analysis and Forecasting Dashboard
 

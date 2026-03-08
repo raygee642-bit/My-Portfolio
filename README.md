@@ -10,14 +10,23 @@
 
 ## 1. Superstore Sales Performance & Profitability Optimization
 
-**The problem:** The Superstore faces a core challenge of unstable growth characterized by a low 73.45% customer retention rate, extreme seasonal sales volatility, and a high frequency of negative-margin orders that frequently dip into significant losses.
+**Problem:** The Superstore faces **unstable growth** characterized by a low **73.45% customer retention rate**, extreme **seasonal sales volatility**, and a high frequency of **negative-profit margins**.
 
 **The Tools Used:** Python, Microsoft Excel, Google Colab
 
-**The Impact:** Provides an actionable roadmap to stabilize growth by identifying the 73.45% retention rate to justify new loyalty initiatives, mapping predictable Q4 seasonal spikes for proactive inventory management, and isolating negative-margin orders and dead inventory—such as the Hewlett-Packard Deskjet 5550—to enable a strategic reinvestment into the high-performing Technology category.
-
+**Impact:** This analysis isolates **profit leakages** and **dead inventory** to provide a strategic roadmap for optimizing high-margin **Technology sales** and implementing **loyalty-driven retention initiatives**.
 [View_the_Code] (https://github.com/raygee642-bit/Superstore-Sales-Performance-Profitability-Optimization)
 
+## 2. Strategic Electricity Demand Analysis and Forecasting Dashboard
+
+**Problem:** High variability in regional and temporal electricity demand hinders accurate forecasting and efficient grid management.
+
+**The Tools used:** Power BI, Microsoft Excel
+
+**Impact:** A consolidated Power BI analysis of historical hourly load data across multiple regions to uncover demand patterns, enabling data-driven optimization of power generation schedules and significantly improved forecasting accuracy.
+
+[Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/e54fe741-a8e0-4098-a58e-940a202e785f/51b27dfd5548cee20188?experience=power-bi)
+[View the Code]()
 
    
 

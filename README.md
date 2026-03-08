@@ -28,7 +28,17 @@
 [Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/e54fe741-a8e0-4098-a58e-940a202e785f/51b27dfd5548cee20188?experience=power-bi)
 [View the Code](https://github.com/raygee642-bit/Electricity-Demand-Load-Pattern-Analysis)
 
-   
+## 3. Global Sales Performance and Stratgic Revenue Insights
+
+**Problem:** The business was highly vulnerable to market disruptions because 80% of its $59.84M revenue relied on physical stores and a single geographic region.
+
+**The Tools used:** Power BI, Microsoft Excel
+
+**Impact:**Identified that 80% of a $59.84M business relies on physical stores, providing a strategic roadmap for digital and global growth.
+
+[Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/81145cae-b101-4375-aaa3-af5445d8ee6e/deb296f3d3fdf41d2ae2?experience=power-bi)
+[View the Code]()
+
 
 
 

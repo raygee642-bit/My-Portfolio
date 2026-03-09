@@ -7,7 +7,7 @@
        height="150" 
        style="border-radius: 50%; object-fit: cover;">
   <br>
-  <strong>Your Name</strong>
+  <strong>Racheal Adelusi</strong>
 </p>
 ## Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights
 

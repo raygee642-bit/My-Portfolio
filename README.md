@@ -35,7 +35,7 @@
 
 **Impact:** A consolidated Power BI analysis of historical hourly load data across multiple regions to uncover demand patterns, enabling data-driven optimization of power generation schedules and significantly improved forecasting accuracy.
 
-[Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/e54fe741-a8e0-4098-a58e-940a202e785f/51b27dfd5548cee20188?experience=power-bi)
+[Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/e54fe741-a8e0-4098-a58e-940a202e785f/51b27dfd5548cee20188?experience=power-bi)  |
 [View the Code](https://github.com/raygee642-bit/Electricity-Demand-Load-Pattern-Analysis)
 
 ## 3. Global Sales Performance and Stratgic Revenue Insights
@@ -49,6 +49,11 @@
 [Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/81145cae-b101-4375-aaa3-af5445d8ee6e/deb296f3d3fdf41d2ae2?experience=power-bi)
 [View the Code](https://github.com/raygee642-bit/Global-Sales-Performance-and-Strategic-Revenue-Insights)
 
+
+
+# Let's Connect
+I am currently open to Data Analyst roles, I would like to chat about data, tech.
+[Send me an email](ayobamiadelusi28@gmail.com) to get in touch.
 
 
 

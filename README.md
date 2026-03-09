@@ -1,4 +1,14 @@
-# Hello, I am Racheal Adelusi 
+# My Portfolio 
+
+<p align="center">
+  <img src="profile.jpg" 
+       alt="Profile Picture" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; object-fit: cover;">
+  <br>
+  <strong>Your Name</strong>
+</p>
 ## Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights
 
 [My LinkedIn](https://www.linkedin.com/in/racheal-ayobami-adelusi-65040421a) | [View My Resume](https://drive.google.com/file/d/1kxMdzscTR8AdhU4ssBkatSyQ6jYKPhV4/view?usp=drive_link) | [Email Me](ayobamiadelusi28@gmail.com)

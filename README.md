@@ -1,16 +1,25 @@
-# 🗂️ My Portfolio 
-<p align="center">
-  <img src="profile.jpg" 
-       alt="Profile Picture" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%; object-fit: cover;">
-  <br>
-  <strong>Racheal Adelusi</strong>
-</p>
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <h1>🗂️ My Portfolio</h1>
+      <h2>📊 Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights</h2>
+      <a href="https://www.linkedin.com/in/racheal-ayobami-adelusi-65040421a">My LinkedIn</a> | 
+      <a href="https://drive.google.com/file/d/1kxMdzscTR8AdhU4ssBkatSyQ6jYKPhV4/view?usp=drive_link">View My Resume</a> | 
+      <a href="mailto:ayobamiadelusi28@gmail.com">Email Me</a>
+    </td>
+    <td align="right" valign="middle" width="180">
+      <img src="profile.jpg" 
+           alt="Profile Picture" 
+           width="150" 
+           height="150" 
+           style="border-radius: 50%; object-fit: cover;">
+      <br>
+      <strong>Racheal Adelusi</strong>
+    </td>
+  </tr>
+</table>
 
-## 📊 Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights
-[My LinkedIn](https://www.linkedin.com/in/racheal-ayobami-adelusi-65040421a) | [View My Resume](https://drive.google.com/file/d/1kxMdzscTR8AdhU4ssBkatSyQ6jYKPhV4/view?usp=drive_link) | [Email Me](mailto:ayobamiadelusi28@gmail.com)
+---
 
 # 🚀 Featured Projects
 

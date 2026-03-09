@@ -1,14 +1,14 @@
 <table width="100%">
   <tr>
     <td valign="middle">
-      <h1> # 🗂️ My Portfolio 
-     <h2>📊 Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights</h2>
+      <h1>🗂️ My Portfolio</h1>
+      <h2>📊 Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights</h2>
       <a href="https://www.linkedin.com/in/racheal-ayobami-adelusi-65040421a">My LinkedIn</a> | 
       <a href="https://drive.google.com/file/d/1kxMdzscTR8AdhU4ssBkatSyQ6jYKPhV4/view?usp=drive_link">View My Resume</a> | 
       <a href="mailto:ayobamiadelusi28@gmail.com">Email Me</a>
     </td>
     <td align="right" valign="middle" width="180">
-      <img src="ppicture.jpeg" 
+      <img src="ppicture.jepg" 
            alt="Profile Picture" 
            width="180" 
            height="180" 
@@ -60,5 +60,3 @@
 I am currently open to Data Analyst roles, I would like to chat about data, tech.
 
 [📧 Send me an email](mailto:ayobamiadelusi28@gmail.com) to get in touch.
-
-

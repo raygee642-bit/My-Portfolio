@@ -33,7 +33,18 @@
 
 ---
 
-## 2. ⚡ Strategic Electricity Demand Analysis and Forecasting Dashboard
+## 2. 🌍 Netflix Library & Content Distribution Analysis
+**Problem:** Addressing library imbalances where content is skewed toward recent US/India-based movies at the expense of global TV diversity
+
+**🛠️ Tools Used:** Python, Google Colab, Kagglehub (Data Source)
+
+**💡 Impact:** Data-driven insights to optimize content acquisition and improve international subscriber retention.
+
+  [View the Code](https://github.com/raygee642-bit/Global-Sales-Performance-and-Strategic-Revenue-Insights)
+
+---
+
+## 3. ⚡ Strategic Electricity Demand Analysis and Forecasting Dashboard
 **Problem:** High variability in regional and temporal electricity demand hinders accurate forecasting and efficient grid management.
 
 **🛠️ Tools Used:** Power BI, Microsoft Excel
@@ -44,7 +55,7 @@
 
 ---
 
-## 3. 🌍 Global Sales Performance and Strategic Revenue Insights
+## 4. 🌍 Global Sales Performance and Strategic Revenue Insights
 **Problem:** The business was highly vulnerable to market disruptions because 80% of its $59.84M revenue relied on physical stores and a single geographic region.
 
 **🛠️ Tools Used:** Power BI, Microsoft Excel
@@ -54,6 +65,8 @@
 [Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/81145cae-b101-4375-aaa3-af5445d8ee6e/deb296f3d3fdf41d2ae2?experience=power-bi) | [View the Code](https://github.com/raygee642-bit/Global-Sales-Performance-and-Strategic-Revenue-Insights)
 
 ---
+
+
 
 # 🤝 Let's Connect
 I am currently open to Data Analyst roles, I would like to chat about data, tech.

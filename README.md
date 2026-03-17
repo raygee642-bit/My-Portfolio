@@ -29,7 +29,7 @@
 
 **💡 Impact:** A comprehensive Power BI analysis of 2024 grid performance that recovered ₦688.63bn in revenue and 144.43k MW of power, achieving a 7.23% reduction in losses and identifying critical efficiency gaps in underperforming regions like Benin and Abuja
 
-
+[View the Code](https://github.com/raygee642-bit/Nigeria-Electricity-Grid-Optimization-Analysis-2024-)
 
 ## 2. 🛒 Superstore Sales Performance & Profitability Optimization
 **Problem:** The Superstore faces **unstable growth** characterized by a low **73.45% customer retention rate**, extreme **seasonal sales volatility**, and a high frequency of **negative-profit margins**.

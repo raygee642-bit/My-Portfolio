@@ -22,7 +22,16 @@
 
 # 🚀 Featured Projects
 
-## 1. 🛒 Superstore Sales Performance & Profitability Optimization
+## 1. Nigeria Electricity grid Optimization performance dashboard
+**Problem:** Systemic power and revenue losses across Nigerian DisCos create significant financial leakages and grid instability, exacerbated by inconsistent regional optimization performance
+
+**🛠️ Tools Used:** Power BI, Microsoft Excel
+
+**💡 Impact:** A comprehensive Power BI analysis of 2024 grid performance that recovered ₦688.63bn in revenue and 144.43k MW of power, achieving a 7.23% reduction in losses and identifying critical efficiency gaps in underperforming regions like Benin and Abuja
+
+
+
+## 2. 🛒 Superstore Sales Performance & Profitability Optimization
 **Problem:** The Superstore faces **unstable growth** characterized by a low **73.45% customer retention rate**, extreme **seasonal sales volatility**, and a high frequency of **negative-profit margins**.
 
 **🛠️ Tools Used:** Python, Microsoft Excel, Google Colab
@@ -33,7 +42,7 @@
 
 ---
 
-## 2. 🌍 Netflix Library & Content Distribution Analysis
+## 3. 🌍 Netflix Library & Content Distribution Analysis
 **Problem:** Addressing library imbalances where content is skewed toward recent US/India-based movies at the expense of global TV diversity
 
 **🛠️ Tools Used:** Python, Google Colab, Kagglehub (Data Source)
@@ -44,7 +53,7 @@
 
 ---
 
-## 3. ⚡ Strategic Electricity Demand Analysis and Forecasting Dashboard
+## 4. ⚡ Strategic Electricity Demand Analysis and Forecasting Dashboard
 **Problem:** High variability in regional and temporal electricity demand hinders accurate forecasting and efficient grid management.
 
 **🛠️ Tools Used:** Power BI, Microsoft Excel
@@ -55,7 +64,7 @@
 
 ---
 
-## 4. 🌍 Global Sales Performance and Strategic Revenue Insights
+## 5. 🌍 Global Sales Performance and Strategic Revenue Insights
 **Problem:** The business was highly vulnerable to market disruptions because 80% of its $59.84M revenue relied on physical stores and a single geographic region.
 
 **🛠️ Tools Used:** Power BI, Microsoft Excel
